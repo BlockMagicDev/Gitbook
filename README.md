@@ -3,4 +3,5 @@
 
 # Info
 **BlockMagic was created by DavidGlitch04 on 5/27/2022 as a development team on many different fields and platforms.**
+
 ![BlockMagicDev](https://avatars.githubusercontent.com/u/98719943?s=200&v=4)
