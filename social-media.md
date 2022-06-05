@@ -6,7 +6,7 @@ description: BlockMagicDev across platforms
 
 ### Discord
 
-* Invite Link: [https://discord.gg/ApDXa7Tm](https://discord.gg/ApDXa7Tm)
+* Invite Link: [https://discord.gg/4QSaWk5x](https://discord.gg/4QSaWk5x)
 
 ### Twitter
 
