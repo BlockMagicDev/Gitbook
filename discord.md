@@ -2,13 +2,13 @@
 description: BlockMagicDev across platforms
 ---
 
-# Social Media
+# Discord
 
-### Discord:
+### Discord
 
 * Invite Link: [https://discord.gg/ApDXa7Tm](https://discord.gg/ApDXa7Tm)
 
-### Twitter:
+### Twitter
 
 * Username: BlockMagicDev
 * Twitter Link: [https://twitter.com/MagicBlock3](https://twitter.com/MagicBlock3)

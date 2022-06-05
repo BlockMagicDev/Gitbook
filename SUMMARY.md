@@ -4,4 +4,4 @@
 * [Rules](rules.md)
 * [Projects](projects.md)
 * [Staff](staff.md)
-* [Social Media](social-media.md)
+* [Discord](discord.md)
